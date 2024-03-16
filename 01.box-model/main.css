@@ -38,3 +38,7 @@ width: 100%;
 background-color: lightgreen;
 padding: 8px 16px;
 }
+
+.main-nav__item{
+  display: inline-block;
+}
