@@ -212,3 +212,16 @@ inline-block
 - 인라인과 블록 레벨 요소ㄴ의 속성을 모두 가짐
 - 인라인 요소처럼 각 요소가 나란히 위치하게 되지만
 - 블록 레벨 요소처럼 위와 아래에 대한 마진 설정이 가능
+
+## inline-block의 동작
+![alt text](image-20.png)
+
+![alt text](image-19.png)
+
+코드 편집기의 빈 공백은 문자로 간주되어 추가 인라인 요소로 추가
+
+![alt text](image-18.png)
+
+이렇게 빈공백을 없애면 다음처럼 한 줄로 나옴..
+
+![alt text](image-17.png)
